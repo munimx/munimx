@@ -14,19 +14,20 @@
 	<img src="https://komarev.com/ghpvc/?username=munimx&style=for-the-badge&color=0ea5e9" alt="profile views" />
 </p>
 
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=munimx&theme=onestar&row=1&column=6&no-frame=true&no-bg=true" alt="trophies" />
-</p>
+---
 
-<p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=munimx&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
+## ✨ About Me
+
+Full-Stack AI Engineer with expertise in building **production-ready AI
+applications** from model development to deployment. I specialize in **RAG
+systems**, **LLM optimization**, and **scalable backend architecture**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
+
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30" />
@@ -41,11 +42,13 @@
 </p>
 
 ### 🌐 Full-Stack
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,electron,flask,fastapi,dotnet,graphql" />
 </p>
 
 ### 🗄️ Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,dynamodb,redis" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="30" />
@@ -54,11 +57,13 @@
 </p>
 
 ### ☁️ Cloud & DevOps
+
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,gitlab,prometheus,grafana" />
 </p>
 
 ### 🔧 Tools & Auth
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,postman,jest,rabbitmq" />
 <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" height="30" />
@@ -77,9 +82,12 @@
 <td width="50%" valign="top">
 
 ### 🤖 [DocuChat](https://github.com/munimx/DocuChat)
+
 **Cross-Platform AI PDF Assistant**
 
-Desktop app for intelligent Q&A over PDFs with RAG architecture, multiple LLM support (OpenAI, Claude, local models), and real-time chat with source citations.
+Desktop app for intelligent Q&A over PDFs with RAG architecture, multiple LLM
+support (OpenAI, Claude, local models), and real-time chat with source
+citations.
 
 <p>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
@@ -92,9 +100,11 @@ Desktop app for intelligent Q&A over PDFs with RAG architecture, multiple LLM su
 <td width="50%" valign="top">
 
 ### 🧠 LLM Fine-Tuning Pipeline
+
 **Production ML Ops**
 
-Fine-tuned Llama 2 (7B) using LoRA/QLoRA with custom evaluation framework (BLEU, ROUGE) and full MLOps pipeline with MLflow tracking.
+Fine-tuned Llama 2 (7B) using LoRA/QLoRA with custom evaluation framework (BLEU,
+ROUGE) and full MLOps pipeline with MLflow tracking.
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -108,9 +118,11 @@ Fine-tuned Llama 2 (7B) using LoRA/QLoRA with custom evaluation framework (BLEU,
 <td width="50%" valign="top">
 
 ### 🏃 [Mapty](https://mapty-mumad.netlify.app)
+
 **Workout Tracking PWA**
 
-Progressive Web App with Firebase Auth, Firestore real-time sync, Mapbox GL JS location tracking, and offline capabilities.
+Progressive Web App with Firebase Auth, Firestore real-time sync, Mapbox GL JS
+location tracking, and offline capabilities.
 
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -122,9 +134,11 @@ Progressive Web App with Firebase Auth, Firestore real-time sync, Mapbox GL JS l
 <td width="50%" valign="top">
 
 ### ⚡ [Real-time Streaming System](https://github.com/munimx/Real-time-Webpage-Screenshot-Streaming-System)
+
 **Kafka + Chrome Extension**
 
-Real-time webpage screenshot streaming using Apache Kafka and a custom Chrome extension for live data capture.
+Real-time webpage screenshot streaming using Apache Kafka and a custom Chrome
+extension for live data capture.
 
 <p>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
@@ -138,10 +152,6 @@ Real-time webpage screenshot streaming using Apache Kafka and a custom Chrome ex
 
 ---
 
-## ✨ About Me
-
-Full-Stack AI Engineer with expertise in building **production-ready AI applications** from model development to deployment. I specialize in **RAG systems**, **LLM optimization**, and **scalable backend architecture**.
-
 ## ⚡ Highlights
 
 ```text
@@ -151,9 +161,12 @@ Full-Stack AI Engineer with expertise in building **production-ready AI applicat
 📊 Data        PostgreSQL • MongoDB • Redis • Pinecone • ChromaDB
 ```
 
+---
+
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on AI-powered applications and full-stack projects!
+I'm always open to collaborating on AI-powered applications and full-stack
+projects!
 
 <p>
 <a href="https://github.com/munimx"><img src="https://img.shields.io/badge/GitHub-munimx-181717?style=for-the-badge&logo=github" /></a>

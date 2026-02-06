@@ -19,83 +19,83 @@ systems**,<br> **LLM optimization**, and **scalable backend architecture**.
 
 ### 🤖 AI / ML
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br>Scikit-learn</td>
-    <td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" /><br>HuggingFace</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="LangChain" /><br>LangChain</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" height="48" alt="OpenAI" /><br>OpenAI</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br><sub><sup>PYTORCH</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br><sub><sup>TENSORFLOW</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" /><br><sub><sup>SKLEARN</sup></sub></td>
+    <td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" /><br><sub><sup>HUGGINGFACE</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="LangChain" /><br><sub><sup>LANGCHAIN</sup></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" width="48" height="48" alt="OpenAI" /><br><sub><sup>OPENAI</sup></sub></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" height="48" alt="Pinecone" /><br>Pinecone</td>
-    <td align="center" width="96"><img src="https://www.trychroma.com/chroma-logo.png" width="48" height="48" alt="ChromaDB" /><br>ChromaDB</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" width="48" height="48" alt="MLflow" /><br>MLflow</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/26401354?s=200&v=4" width="48" height="48" alt="W&B" /><br>W&B</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="48" height="48" alt="Anthropic" /><br>Anthropic</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="48" height="48" alt="LlamaIndex" /><br>LlamaIndex</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" height="48" alt="Pinecone" /><br><sub><sup>PINECONE</sup></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chroma.svg" width="48" height="48" alt="ChromaDB" /><br><sub><sup>CHROMADB</sup></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ml-flow-wordmark-dark.svg" width="48" height="48" alt="MLflow" /><br><sub><sup>MLFLOW</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/26401354?s=200&v=4" width="48" height="48" alt="W&B" /><br><sub><sup>W&B</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="48" height="48" alt="Anthropic" /><br><sub><sup>ANTHROPIC</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="48" height="48" alt="LlamaIndex" /><br><sub><sup>LLAMAINDEX</sup></sub></td>
   </tr>
 </table>
 
 ### 🌐 Full-Stack
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" /><br>Electron</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><sup>REACT</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><sup>NEXT.JS</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><sup>TYPESCRIPT</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><sup>NODE.JS</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br><sub><sup>EXPRESS</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" /><br><sub><sup>ELECTRON</sup></sub></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /><br>.NET</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br>GraphQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br><sub><sup>FLASK</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br><sub><sup>FASTAPI</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /><br><sub><sup>.NET</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br><sub><sup>GRAPHQL</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub><sup>PYTHON</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><sup>JAVASCRIPT</sup></sub></td>
   </tr>
 </table>
 
 ### 🗄️ Databases
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" /><br>DynamoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><sup>POSTGRESQL</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub><sup>MYSQL</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><sub><sup>MONGODB</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br><sub><sup>FIREBASE</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" /><br><sub><sup>DYNAMODB</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br><sub><sup>REDIS</sup></sub></td>
   </tr>
 </table>
 
 ### ☁️ Cloud & DevOps
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>Kubernetes</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>Actions</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br>GitLab CI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /><br>Prometheus</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /><br>Grafana</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br><sub><sup>AWS</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub><sup>DOCKER</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br><sub><sup>KUBERNETES</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br><sub><sup>ACTIONS</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br><sub><sup>GITLAB CI</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /><br><sub><sup>PROMETHEUS</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /><br><sub><sup>GRAFANA</sup></sub></td>
   </tr>
 </table>
 
 ### 🔧 Tools & Auth
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" /><br>Jest</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" width="48" height="48" alt="Auth0" /><br>Auth0</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/oktacom/oktacom-icon.svg" width="48" height="48" alt="Okta" /><br>Okta</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub><sup>GIT</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><sub><sup>POSTMAN</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" /><br><sub><sup>JEST</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" /><br><sub><sup>RABBITMQ</sup></sub></td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" width="48" height="48" alt="Auth0" /><br><sub><sup>AUTH0</sup></sub></td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/okta/okta-icon.svg" width="48" height="48" alt="Okta" /><br><sub><sup>OKTA</sup></sub></td>
   </tr>
 </table>
 
@@ -194,5 +194,9 @@ projects!
 <a href="https://linkedin.com/in/munimahmad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-munimahmad-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=munimahmad2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-munimahmad2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/923164086827" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B92_316_4086827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+---
+
+Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="20"> by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20"> some repositories!
 
 </div>

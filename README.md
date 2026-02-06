@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="header_banner.jpeg" alt="Munim Ahmad - Full-Stack AI Engineer" width="100%" />
+<!-- Animated hero banner -->
+<img src="header_banner.svg" alt="Munim Ahmad - Full-Stack AI Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+intelligent%2C+end-to-end+AI+products;Full-stack+engineer+with+AI+at+the+core;TypeScript+%7C+Python+%7C+Node.js;Always+learning%2C+always+shipping" alt="typing" />
 
-<br><br>
-
-<a href="https://github.com/munimx"><img src="https://img.shields.io/badge/GitHub-munimx-181717?style=for-the-badge&logo=github" alt="github" /></a>
-<img src="https://komarev.com/ghpvc/?username=munimx&style=for-the-badge&color=0ea5e9" alt="profile views" />
-
 ---
 
-## ✨ About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 Full-Stack AI Engineer with expertise in building **production-ready AI
 applications**<br> from model development to deployment. I specialize in **RAG
@@ -19,7 +15,7 @@ systems**,<br> **LLM optimization**, and **scalable backend architecture**.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 ### 🤖 AI / ML
 
@@ -64,7 +60,7 @@ systems**,<br> **LLM optimization**, and **scalable backend architecture**.
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Featured Projects
 
 </div>
 
@@ -137,7 +133,7 @@ extension for live data capture.
 
 ---
 
-## ⚡ Highlights
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> Highlights
 
 ```text
 🤖 AI/ML       RAG Systems • LLM Fine-tuning (LoRA/QLoRA) • Vector DBs • Prompt Engineering
@@ -148,7 +144,7 @@ extension for live data capture.
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 I'm always open to collaborating on AI-powered applications and full-stack
 projects!
@@ -156,5 +152,6 @@ projects!
 <a href="https://github.com/munimx"><img src="https://img.shields.io/badge/GitHub-munimx-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://linkedin.com/in/munimahmad"><img src="https://img.shields.io/badge/LinkedIn-munimahmad-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:munimahmad2@gmail.com"><img src="https://img.shields.io/badge/Email-munimahmad2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+923164086827"><img src="https://img.shields.io/badge/Phone-%2B92_316_4086827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>

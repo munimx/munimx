@@ -1,9 +1,6 @@
 <div align="center">
 
-# Hey there! 👋 I'm Munim
-
-<!-- Animated hero banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Munim%20Ahmad&fontAlign=50&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descAlign=50&descAlignY=60&color=0:0f172a,100:0b3b8f&animation=fadeIn" alt="header" />
+<img src="header_banner.jpeg" alt="Munim Ahmad - Full-Stack AI Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+intelligent%2C+end-to-end+AI+products;Full-stack+engineer+with+AI+at+the+core;TypeScript+%7C+Python+%7C+Node.js;Always+learning%2C+always+shipping" alt="typing" />
 
@@ -159,10 +156,5 @@ projects!
 <a href="https://github.com/munimx"><img src="https://img.shields.io/badge/GitHub-munimx-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://linkedin.com/in/munimahmad"><img src="https://img.shields.io/badge/LinkedIn-munimahmad-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:munimahmad2@gmail.com"><img src="https://img.shields.io/badge/Email-munimahmad2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br><br>
-
-<!-- Subtle animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b3b8f,100:0f172a&section=footer&animation=fadeIn" alt="footer" />
 
 </div>

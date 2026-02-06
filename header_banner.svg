@@ -1,0 +1,85 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Vertical gradient: stronger darker tone fading to GitHub dark -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#21262d;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0C1117;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Grid fade mask -->
+    <linearGradient id="gridFade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:white;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:white;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:white;stop-opacity:0" />
+    </linearGradient>
+    
+    <mask id="gridMask">
+      <rect width="1200" height="300" fill="url(#gridFade)"/>
+    </mask>
+    
+    <!-- Small grid pattern -->
+    <pattern id="smallGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#30363d" stroke-width="0.5"/>
+    </pattern>
+    
+    <!-- Animated gradient for accent line -->
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#a371f7;#58a6ff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#a371f7">
+        <animate attributeName="stop-color" values="#a371f7;#58a6ff;#a371f7" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+  
+  <!-- Grid overlay with fade -->
+  <rect width="1200" height="300" fill="url(#smallGrid)" mask="url(#gridMask)" opacity="0.6"/>
+  
+  <!-- Corner accents -->
+  <rect x="0" y="0" width="100" height="2" fill="url(#lineGradient)" opacity="0.5"/>
+  <rect x="0" y="0" width="2" height="100" fill="url(#lineGradient)" opacity="0.5"/>
+  <rect x="1100" y="0" width="100" height="2" fill="url(#lineGradient)" opacity="0.5"/>
+  <rect x="1198" y="0" width="2" height="100" fill="url(#lineGradient)" opacity="0.5"/>
+  <rect x="0" y="298" width="100" height="2" fill="url(#lineGradient)" opacity="0.3"/>
+  <rect x="0" y="200" width="2" height="100" fill="url(#lineGradient)" opacity="0.3"/>
+  <rect x="1100" y="298" width="100" height="2" fill="url(#lineGradient)" opacity="0.3"/>
+  <rect x="1198" y="200" width="2" height="100" fill="url(#lineGradient)" opacity="0.3"/>
+  
+  <!-- Main title -->
+  <text x="600" y="120" font-family="-apple-system, BlinkMacSystemFont, Inter, Roboto, sans-serif" font-size="48" font-weight="600" fill="#c9d1d9" text-anchor="middle" letter-spacing="1">
+    Munim Ahmad
+  </text>
+  
+  <!-- Accent line -->
+  <rect x="490" y="142" width="220" height="2" rx="1" fill="url(#lineGradient)" opacity="0.7"/>
+  
+  <!-- Subtitle -->
+  <text x="600" y="182" font-family="-apple-system, BlinkMacSystemFont, Inter, Roboto, sans-serif" font-size="20" font-weight="400" fill="#7d8590" text-anchor="middle" letter-spacing="0.5">
+    Full-Stack AI Engineer
+  </text>
+  
+  <!-- Floating dots -->
+  <circle cx="120" cy="70" r="1.5" fill="#58a6ff" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="80" r="1.5" fill="#58a6ff" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.65;0.35" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="230" r="1" fill="#a371f7" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.55;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="220" r="1" fill="#a371f7" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="50" r="1" fill="#58a6ff" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.5;0.25" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="250" r="1" fill="#a371f7" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.45;0.25" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>

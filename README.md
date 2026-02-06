@@ -26,79 +26,140 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge" height="30" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" height="30" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="30" />
+</p>
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+### 🌐 Full-Stack
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,electron,flask,fastapi,dotnet,graphql" />
+</p>
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,dynamodb,redis" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" height="30" />
+<img src="https://img.shields.io/badge/Weaviate-00DC82?style=for-the-badge" height="30" />
+</p>
 
-**Databases & Streaming**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,gitlab,prometheus,grafana" />
+</p>
 
-**AI & Machine Learning**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+### 🔧 Tools & Auth
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,jest,rabbitmq" />
+<img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [DocuChat](https://github.com/munimx/DocuChat)
-Cross-Platform AI PDF Assistant – Chat with your PDF documents using AI  
-`TypeScript` `AI` `PDF Processing`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [Real-time Webpage Screenshot Streaming System](https://github.com/munimx/Real-time-Webpage-Screenshot-Streaming-System)
-Real-time streaming demo using Kafka and a Chrome extension  
-`JavaScript` `Kafka` `Chrome Extension`
+### 🤖 [DocuChat](https://github.com/munimx/DocuChat)
+**Cross-Platform AI PDF Assistant**
 
-### [Road Accident Hotspot Detection](https://github.com/munimx/Road-Accident-Hotspot-Detection)
-Identify dangerous accident areas using K-Means clustering  
-`Python` `Machine Learning` `K-Means`
+Desktop app for intelligent Q&A over PDFs with RAG architecture, multiple LLM support (OpenAI, Claude, local models), and real-time chat with source citations.
 
-### [URL Shortener](https://github.com/munimx/URL-Shortener)
-Full-stack URL shortener built with Node.js, Express, and MongoDB  
-`Node.js` `Express.js` `MongoDB`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=munimx&show_icons=true&theme=github_dark&hide_border=true" alt="stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munimx&layout=compact&theme=github_dark&hide_border=true" alt="languages" />
+<p>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
 </p>
 
-<p align="center">
-	<img src="https://streak-stats.demolab.com?user=munimx&theme=github-dark-blue&hide_border=true" alt="streak" />
+</td>
+<td width="50%" valign="top">
+
+### 🧠 LLM Fine-Tuning Pipeline
+**Production ML Ops**
+
+Fine-tuned Llama 2 (7B) using LoRA/QLoRA with custom evaluation framework (BLEU, ROUGE) and full MLOps pipeline with MLflow tracking.
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
 </p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏃 [Mapty](https://mapty-mumad.netlify.app)
+**Workout Tracking PWA**
+
+Progressive Web App with Firebase Auth, Firestore real-time sync, Mapbox GL JS location tracking, and offline capabilities.
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Real-time Streaming System](https://github.com/munimx/Real-time-Webpage-Screenshot-Streaming-System)
+**Kafka + Chrome Extension**
+
+Real-time webpage screenshot streaming using Apache Kafka and a custom Chrome extension for live data capture.
+
+<p>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ✨ About Me
 
-I build intelligent, end-to-end applications that blend AI capabilities with modern web experiences. I care about product thinking, clean architecture, and shipping fast.
+Full-Stack AI Engineer with expertise in building **production-ready AI applications** from model development to deployment. I specialize in **RAG systems**, **LLM optimization**, and **scalable backend architecture**.
 
 ## ⚡ Highlights
 
-- Full-stack AI engineer focused on production-grade systems
-- Strong in TypeScript, Python, and Node.js
-- Experienced with Kafka for real-time streaming
-- Love working on AI-powered developer tools and knowledge systems
+```text
+🤖 AI/ML       RAG Systems • LLM Fine-tuning (LoRA/QLoRA) • Vector DBs • Prompt Engineering
+🌐 Full-Stack  React • Next.js • Node.js • .NET • Electron • FastAPI
+☁️ Cloud       AWS (EC2, S3, Lambda, SageMaker) • Docker • Kubernetes
+📊 Data        PostgreSQL • MongoDB • Redis • Pinecone • ChromaDB
+```
 
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on AI-powered applications and full-stack projects!
 
-[![GitHub](https://img.shields.io/badge/GitHub-munimx-181717?style=for-the-badge&logo=github)](https://github.com/munimx)
+<p>
+<a href="https://github.com/munimx"><img src="https://img.shields.io/badge/GitHub-munimx-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://linkedin.com/in/munimahmad"><img src="https://img.shields.io/badge/LinkedIn-munimahmad-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:munimahmad2@gmail.com"><img src="https://img.shields.io/badge/Email-munimahmad2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <!-- Subtle animated footer -->
 <p align="center">

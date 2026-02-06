@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated hero banner -->
-<img src="header_banner.svg" alt="Munim Ahmad - Full-Stack AI Engineer" width="100%" />
+<img src="header_banner.svg?v=4" alt="Munim Ahmad - Full-Stack AI Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+intelligent+systems+%F0%9F%A7%A0;RAG+pipelines+%7C+LLM+optimization+%7C+Full-stack;From+model+training+to+production+deployment;Building+AI+that+actually+ships+%F0%9F%9A%80;Let's+build+something+amazing+together" alt="typing" />
 
@@ -190,9 +190,9 @@ extension for live data capture.
 I'm always open to collaborating on AI-powered applications and full-stack
 projects!
 
-<a href="https://github.com/munimx"><img src="https://img.shields.io/badge/GitHub-munimx-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://linkedin.com/in/munimahmad"><img src="https://img.shields.io/badge/LinkedIn-munimahmad-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=munimahmad2@gmail.com"><img src="https://img.shields.io/badge/Email-munimahmad2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/923164086827"><img src="https://img.shields.io/badge/WhatsApp-%2B92_316_4086827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/munimx" target="_blank"><img src="https://img.shields.io/badge/GitHub-munimx-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://linkedin.com/in/munimahmad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-munimahmad-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=munimahmad2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-munimahmad2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/923164086827" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B92_316_4086827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>

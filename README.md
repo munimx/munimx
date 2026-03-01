@@ -125,32 +125,33 @@ citations.
 </td>
 <td width="50%" valign="top" align="center">
 
-### 🧠 LLM Fine-Tuning Pipeline
+### ⚙️ [LLM Inference Optimization Engine](https://github.com/munimx/LLM-Inference-Optimization-Engine)
 
-**Production ML Ops**
+**Production-Grade LLM Orchestration**
 
-Fine-tuned Llama 2 (7B) using LoRA/QLoRA with custom evaluation framework (BLEU,
-ROUGE) and full MLOps pipeline with MLflow tracking.
+Intelligent optimization layer on top of Ollama with smart batching, speculative
+decoding (2-4x speedup), multi-level quantization, and pluggable scheduling
+policies (FCFS, SJF, Priority, Token-based).
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🏃 [Mapty](https://mapty-mumad.netlify.app)
+### 📋 [Folio](https://github.com/munimx/Folio)
 
-**Workout Tracking PWA**
+**Offline-First Todo App**
 
-Progressive Web App with Firebase Auth, Firestore real-time sync, Mapbox GL JS
-location tracking, and offline capabilities.
+Beautiful, fast, offline-capable task manager with optional Web Push
+notifications, service worker caching, and a responsive TypeScript frontend.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+<img src="https://img.shields.io/badge/WebPush-FF6C37?style=flat-square" />
 
 </td>
 <td width="50%" valign="top" align="center">

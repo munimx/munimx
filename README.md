@@ -36,6 +36,12 @@ systems**,<br> **LLM optimization**, and **scalable backend architecture**.
     <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="48" height="48" alt="Anthropic" /><br><sub><sup>ANTHROPIC</sup></sub></td>
     <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="48" height="48" alt="LlamaIndex" /><br><sub><sup>LLAMAINDEX</sup></sub></td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/16943930?s=200&v=4" width="48" height="48" alt="FAISS" /><br><sub><sup>FAISS</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" width="48" height="48" alt="Weaviate" /><br><sub><sup>WEAVIATE</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="48" height="48" alt="n8n" /><br><sub><sup>N8N</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/4174777?s=200&v=4" width="48" height="48" alt="Zapier" /><br><sub><sup>ZAPIER</sup></sub></td>
+  </tr>
 </table>
 
 ### 🌐 Full-Stack
@@ -70,6 +76,11 @@ systems**,<br> **LLM optimization**, and **scalable backend architecture**.
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" /><br><sub><sup>DYNAMODB</sup></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br><sub><sup>REDIS</sup></sub></td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><sub><sup>SQLITE</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" width="48" height="48" alt="Weaviate" /><br><sub><sup>WEAVIATE</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br><sub><sup>SUPABASE</sup></sub></td>
+  </tr>
 </table>
 
 ### ☁️ Cloud & DevOps
@@ -97,6 +108,11 @@ systems**,<br> **LLM optimization**, and **scalable backend architecture**.
     <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" width="48" height="48" alt="Auth0" /><br><sub><sup>AUTH0</sup></sub></td>
     <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/okta/okta-icon.svg" width="48" height="48" alt="Okta" /><br><sub><sup>OKTA</sup></sub></td>
   </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/4397360?s=200&v=4" width="48" height="48" alt="Celery" /><br><sub><sup>CELERY</sup></sub></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/8897724?s=200&v=4" width="48" height="48" alt="Pytest" /><br><sub><sup>PYTEST</sup></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><sub><sup>VS CODE</sup></sub></td>
+  </tr>
 </table>
 
 ---
@@ -107,6 +123,21 @@ systems**,<br> **LLM optimization**, and **scalable backend architecture**.
 
 <table align="center">
 <tr>
+<td width="50%" valign="top" align="center">
+
+### 🔮 [recallm](https://github.com/munimx/recallm)
+
+**Semantic LLM Cache**
+
+Semantic cache layer for LLM APIs — embeds prompts locally, finds near-matches,
+and skips redundant LLM calls to slash costs and latency.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-003366?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+
+</td>
 <td width="50%" valign="top" align="center">
 
 ### 🤖 [DocuChat](https://github.com/munimx/DocuChat)
@@ -123,6 +154,8 @@ citations.
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center">
 
 ### ⚙️ [LLM Inference Optimization Engine](https://github.com/munimx/LLM-Inference-Optimization-Engine)
@@ -136,6 +169,20 @@ policies (FCFS, SJF, Priority, Token-based).
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📝 [Folio](https://github.com/munimx/Folio)
+
+**Offline-First Task Manager**
+
+Beautiful, fast, offline-capable task manager PWA with optional push
+notifications and a smooth cross-device experience.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
+<img src="https://img.shields.io/badge/Push%20Notifications-FF6B35?style=flat-square" />
 
 </td>
 </tr>
@@ -178,10 +225,10 @@ extension for live data capture.
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> Highlights
 
 ```text
-🤖 AI/ML       RAG Systems • LLM Fine-tuning (LoRA/QLoRA) • Vector DBs • Prompt Engineering
-🌐 Full-Stack  React • Next.js • Node.js • .NET • Electron • FastAPI
-☁️ Cloud       AWS (EC2, S3, Lambda, SageMaker) • Docker • Kubernetes
-📊 Data        PostgreSQL • MongoDB • Redis • Pinecone • ChromaDB
+🤖 AI/ML       RAG Systems • LLM Fine-tuning (LoRA/QLoRA) • Vector DBs (FAISS, Weaviate) • Prompt Engineering • n8n/Zapier Automation
+🌐 Full-Stack  React • Next.js • Node.js • .NET • Electron • FastAPI • WebSockets • gRPC
+☁️ Cloud       AWS (EC2, S3, Lambda, SageMaker, ECS) • Docker • Kubernetes • CI/CD
+📊 Data        PostgreSQL • MongoDB • Redis • SQLite • Pinecone • ChromaDB • Weaviate
 ```
 
 ---

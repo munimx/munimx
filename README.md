@@ -140,6 +140,22 @@ and skips redundant LLM calls to slash costs and latency.
 </td>
 <td width="50%" valign="top" align="center">
 
+### ⚡ [Snag](https://github.com/munimx/Snag)
+
+**Open-Source Webhook Inspector**
+
+Lightweight webhook inspector with a CLI tunnel, real-time web console, request
+replay, configurable forwarding rules, and native MCP support for AI agents.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-111827?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
 ### 🤖 [DocuChat](https://github.com/munimx/DocuChat)
 
 **Cross-Platform AI PDF Assistant**
@@ -154,39 +170,6 @@ citations.
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### ⚙️ [LLM Inference Optimization Engine](https://github.com/munimx/LLM-Inference-Optimization-Engine)
-
-**Production-Grade LLM Orchestration**
-
-Intelligent optimization layer on top of Ollama with smart batching, speculative
-decoding (2-4x speedup), multi-level quantization, and pluggable scheduling
-policies (FCFS, SJF, Priority, Token-based).
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 📝 [Folio](https://github.com/munimx/Folio)
-
-**Offline-First Task Manager**
-
-Beautiful, fast, offline-capable task manager PWA with optional push
-notifications and a smooth cross-device experience.
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-<img src="https://img.shields.io/badge/Push%20Notifications-FF6B35?style=flat-square" />
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center">
 
 ### 📋 [Folio](https://github.com/munimx/Folio)
@@ -199,20 +182,6 @@ notifications, service worker caching, and a responsive TypeScript frontend.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
 <img src="https://img.shields.io/badge/WebPush-FF6C37?style=flat-square" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### ⚡ [Real-time Streaming System](https://github.com/munimx/Real-time-Webpage-Screenshot-Streaming-System)
-
-**Kafka + Chrome Extension**
-
-Real-time webpage screenshot streaming using Apache Kafka and a custom Chrome
-extension for live data capture.
-
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 
 </td>
 </tr>
